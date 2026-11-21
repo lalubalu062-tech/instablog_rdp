@@ -15,11 +15,6 @@ PROXIES = [
         "username": "HjmrT6g8",
         "password": "jtuFhS5G",
     },
-    {
-        "server": "socks5://v2.proxyapi.eu:5005",
-        "username": "HjmrT6g8",
-        "password": "jtuFhS5G",
-    },
 ]
 
 def get_random_proxy():
